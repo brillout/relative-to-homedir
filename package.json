@@ -1,0 +1,13 @@
+{
+  "name": "@brillout/relative-to-homedir",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "scripts": {
+    "docs": "./node_modules/.bin/mdocs"
+  },
+  "dependencies": {},
+  "repository": "github:brillout/relative-to-homedir",
+  "devDependencies": {
+    "@brillout/mdocs": "^0.1.9"
+  }
+}
